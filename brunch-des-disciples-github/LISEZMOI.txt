@@ -1,0 +1,25 @@
+BRUNCH DES DISCIPLES – CULTURAL DEFENDER (11 décembre 2026)
+============================================================
+Contenu du dossier
+  index.html     la page du site
+  css/style.css  tous les styles (couleurs, thèmes, animations)
+  js/main.js     le comportement (compte à rebours, thèmes, galerie, stands…)
+  images/        toutes les photos et visuels utilisés par le site
+
+Pour voir le site : double-cliquez sur index.html.
+Les polices (Bungee, Outfit, Playfair Display) viennent de Google Fonts :
+il faut une connexion Internet pour qu'elles s'affichent.
+
+Pour le mettre en ligne : envoyez tout le dossier chez un hébergeur
+(Netlify, Vercel, GitHub Pages, ou un hébergement classique), en gardant
+la même organisation de dossiers.
+
+Où modifier quoi
+  Textes et photos         -> index.html
+  Couleurs / thèmes        -> css/style.css (variables en haut du fichier)
+  Date du compte à rebours -> js/main.js (cherchez Date.UTC(2026,11,11,8,0,0))
+  Points de vente          -> js/main.js (liste « var P= »)
+  Numéro WhatsApp          -> index.html et js/main.js (22664857962)
+
+Les photos sont des versions allégées pour le web. Gardez vos fichiers
+d'origine pour l'impression.
